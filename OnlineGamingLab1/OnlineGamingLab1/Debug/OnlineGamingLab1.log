@@ -1,0 +1,7 @@
+﻿  Net.cpp
+c:\users\gameuser\desktop\lab1\lab1\onlinegaminglab1\onlinegaminglab1\net.cpp(160): warning C4101: 'bytes_sent': unreferenced local variable
+  Main.cpp
+  Generating Code...
+  LINK : C:\Users\gameuser\Desktop\Lab1\Lab1\OnlineGamingLab1\Debug\OnlineGamingLab1.exe not found or not built by the last incremental link; performing full link
+  OnlineGamingLab1.vcxproj -> C:\Users\gameuser\Desktop\Lab1\Lab1\OnlineGamingLab1\Debug\OnlineGamingLab1.exe
+  OnlineGamingLab1.vcxproj -> C:\Users\gameuser\Desktop\Lab1\Lab1\OnlineGamingLab1\Debug\OnlineGamingLab1.pdb (Partial PDB)
