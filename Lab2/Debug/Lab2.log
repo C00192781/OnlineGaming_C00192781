@@ -1,0 +1,8 @@
+﻿  TcpListener.cpp
+c:\users\gameuser\desktop\online gaming\lab2upload\onlinegaming_c00192781\lab2\tcplistener.cpp(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\gameuser\desktop\online gaming\lab2upload\onlinegaming_c00192781\lab2\tcplistener.cpp(73): warning C4101: 'buf': unreferenced local variable
+  Qotd.cpp
+  main.cpp
+  Generating Code...
+  Lab2.vcxproj -> C:\Users\gameuser\Desktop\Online Gaming\Lab2Upload\OnlineGaming_C00192781\Lab2\Debug\Lab2.exe
+  Lab2.vcxproj -> C:\Users\gameuser\Desktop\Online Gaming\Lab2Upload\OnlineGaming_C00192781\Lab2\Debug\Lab2.pdb (Partial PDB)
